@@ -1,7 +1,7 @@
 
----
-layout: slide
-title: "Welcome to our second slide!"
-whoawww crazyyy
-Your text
-Use the left arrow to go back!
+# issue
+***
+
+Ein Issue ist ein Teil eines Projektes, den man Verbessern will.
+Man kann beschreiben, was zu verbessern ist.
+Wichtig dabei ist es, dass man einen zweiten Branch macht, um nichts an dem Main Code zu ändern.
