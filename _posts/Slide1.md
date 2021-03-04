@@ -1,4 +1,6 @@
+---
 layout: slide
+title: "Welcome to our slide deck!"
+---
 
-# Introduction to GitHub
-***
+Use the right arrow to begin!
